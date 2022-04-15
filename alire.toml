@@ -1,0 +1,9 @@
+name = "mirdem"
+description = "Mirror Demonstrator"
+version = "0.0.0"
+
+authors = ["Michael Breuer"]
+maintainers = ["Michael Breuer <michael.breuer@ilsf.eu>"]
+maintainers-logins = ["zyxbac"]
+
+executables = ["mirdem"]
